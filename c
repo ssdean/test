@@ -1,5 +1,0 @@
-c
-
-origin develop 
-
-jdasfjhasdf
